@@ -1,0 +1,18 @@
+{
+  "name": "信球电台",
+  "description": "充分发挥主观能动性，带着有色眼镜看篮球，带你领略偏见的力量。",
+  "author": "Ricky",
+  "color": "#FFFFFF",
+  "logo": "https://i.typlog.com/xinq/8358948553_687181.png",
+  "url": "https://xinq.typlog.io/",
+  "feed": "https://xinq.typlog.io/episodes/feed.xml",
+  "apple": "https://podcasts.apple.com/us/podcast/信球电台/id1612753931",
+  "google": "https://podcasts.google.com/feed/aHR0cHM6Ly94aW5xLnR5cGxvZy5pby9lcGlzb2Rlcy9mZWVkLnhtbA",
+  "spotify": "https://open.spotify.com/show/2bhIGaiXOhQmRpBpncX56l",
+  "overcast": null,
+  "pcast": null,
+  "castro": null,
+  "breaker": null,
+  "typlog": true,
+  "blocked": false
+}
